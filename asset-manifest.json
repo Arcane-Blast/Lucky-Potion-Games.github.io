@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1d268fa.css",
+    "main.js": "/static/js/main.bd157862.js",
+    "static/js/787.5a82b834.chunk.js": "/static/js/787.5a82b834.chunk.js",
+    "static/media/intro_bg.png": "/static/media/intro_bg.e95a6c765d7b2eb6535a.png",
+    "static/media/our_games_bg.jpg": "/static/media/our_games_bg.a996484a74c236be247b.jpg",
+    "static/media/about_us_bg.jpg": "/static/media/about_us_bg.802ac5c1040660b057db.jpg",
+    "static/media/proxima-nova.otf": "/static/media/proxima-nova.7bc9ce404c297c24f210.otf",
+    "index.html": "/index.html",
+    "main.b1d268fa.css.map": "/static/css/main.b1d268fa.css.map",
+    "main.bd157862.js.map": "/static/js/main.bd157862.js.map",
+    "787.5a82b834.chunk.js.map": "/static/js/787.5a82b834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d268fa.css",
+    "static/js/main.bd157862.js"
+  ]
+}
