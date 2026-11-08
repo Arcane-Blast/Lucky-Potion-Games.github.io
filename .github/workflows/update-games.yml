@@ -1,0 +1,54 @@
+# Keeps the games on arcaneblast.com in sync with both store accounts.
+# Runs every day and can be started by hand from the Actions tab
+# ("Update games list" -> "Run workflow"). It only commits when something changed.
+name: Update games list
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-games
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow (shrinks the store images)
+        run: pip install --disable-pip-version-check pillow==12.0.0
+
+      - name: Read the App Store and Google Play
+        run: python scripts/update_games.py
+
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain -- index.html data assets/games)" ]; then
+            echo "No changes in the stores."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- index.html data assets/games
+          git commit -m "Update games list from the stores"
+          git push
+
+      # GitHub pauses scheduled workflows after 60 days without repository
+      # activity. Re-enabling keeps the daily run alive without extra commits.
+      - name: Keep the schedule alive
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable update-games.yml --repo "$GITHUB_REPOSITORY" || true

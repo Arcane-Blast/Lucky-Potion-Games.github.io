@@ -1,0 +1,418 @@
+{
+  "updated": "2026-11-08T09:43:15+00:00",
+  "digest": "09d66e1b82f6b7100807fd2e63c1f75b8ee445ac233ea135bda536a700fd9e5e",
+  "sources": {
+    "app_store": "https://apps.apple.com/developer/id1685863359",
+    "google_play": "https://play.google.com/store/apps/developer?id=Lucky+Potion"
+  },
+  "games": [
+    {
+      "slug": "wrecking-knight-survivor",
+      "title": "Wrecking Knight: Survivor",
+      "genre": "Action",
+      "released": "2026-11-04",
+      "tagline": "Horde survivor with no attack button: swing a spiked ball on a chain.",
+      "android": {
+        "id": "com.ArcaneBlast.WreckingKnight",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.WreckingKnight"
+      },
+      "images": {
+        "icon": "assets/games/wrecking-knight-survivor/icon.webp",
+        "feature": "assets/games/wrecking-knight-survivor/feature.webp",
+        "shots": [
+          "assets/games/wrecking-knight-survivor/shot-1.webp",
+          "assets/games/wrecking-knight-survivor/shot-2.webp",
+          "assets/games/wrecking-knight-survivor/shot-3.webp",
+          "assets/games/wrecking-knight-survivor/shot-4.webp",
+          "assets/games/wrecking-knight-survivor/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/RcoTeEWcyifHG6cErTNGOw1Zogy14jQAKoRqXKkCCx9Q_GuPBbDe6XSCNZYCd05o1nbiIh03S3kd8y5YPjLM",
+        "feature": "https://play-lh.googleusercontent.com/9DKw0OspptLqtD9g6dHCU4J_AeIL6nhrTTMKWgn_xeV6ybr1FGTG9BHW6qWMwBcpzhjnmnFsYg_dNFdhGGCcbw",
+        "shot-1": "https://play-lh.googleusercontent.com/JIr4YVjHGeI_Q_Xmc5bggGFC5NZ4VAnSK8SuiaYyZnIs1e1-KPrdjSXxP3aWMy6pKRYr2xeJO1dDHXE0Z4LkeaA",
+        "shot-2": "https://play-lh.googleusercontent.com/ReHHYVkHrZVwy-aQBSVw0e3DL4SvnaHo4dZ4ZEPDGikwFfycmrcVNK7Er34NBAgV79oPYcDFvach89bG_PRoFtM",
+        "shot-3": "https://play-lh.googleusercontent.com/jUtEVNhYTMgO4y1fTgA9qD_heNOf0v2LvdcE2Jim0JJQdvliNg2jYIAsaIrsixmIWWOJNpSz9FbfLdTnKYb3nv8",
+        "shot-4": "https://play-lh.googleusercontent.com/wlSyfvYcXuMOgakEpiaVtTFQ4--tE49hkx3sNDfTSjl0iAGrC0TANCmaN0L8TetLVPwJCpaRIv90oWigegcqGoM",
+        "shot-5": "https://play-lh.googleusercontent.com/mjhFKavPc6enDT6R-8pwzKM0Kdhe4ERfMmJfpjXFoRZBOe0enNBmKY8uXesrYMz1nUuVckYPWhMZtwGSU9mt"
+      },
+      "key": "com.arcaneblast.wreckingknight"
+    },
+    {
+      "slug": "conquer-them-territory-war",
+      "title": "Conquer Them! Territory War",
+      "genre": "Strategy",
+      "released": "2026-10-30",
+      "tagline": "Build your deck, command armies and conquer islands in 5-minute strategy battles",
+      "android": {
+        "id": "com.ArcaneBlast.ConquerThem",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.ConquerThem"
+      },
+      "images": {
+        "icon": "assets/games/conquer-them-territory-war/icon.webp",
+        "feature": "assets/games/conquer-them-territory-war/feature.webp",
+        "shots": [
+          "assets/games/conquer-them-territory-war/shot-1.webp",
+          "assets/games/conquer-them-territory-war/shot-2.webp",
+          "assets/games/conquer-them-territory-war/shot-3.webp",
+          "assets/games/conquer-them-territory-war/shot-4.webp",
+          "assets/games/conquer-them-territory-war/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/SwVWLdZvZfDabvZZsDl2dkeaIbiQGrvynUmdCVWVcTi8_DFhVylF_AKgdrfZKv3i6huxosxyU3dSR1XdwWmnMw",
+        "feature": "https://play-lh.googleusercontent.com/yHlnip1yf82Hl3hRa1DogFU3LnSL1F27Y6MLrB7Al534XQ12nVhLtWisQq_mAo27e0iqy2l1RP9sFZEILBzpHA",
+        "shot-1": "https://play-lh.googleusercontent.com/019z-zB_xJvbXLbcHoGrZQd3BEec36LsT671FNgl0WkP2g2Q2HR-kPCz8pSfEYE_6j_d1NU-q3kZt_fyUh0N",
+        "shot-2": "https://play-lh.googleusercontent.com/pGbVimUm0HY2rTRt4YGwbTUa2hK58Y6EqBYR_8ENqQSnjj2sNh-e8-mILJ9bvuRm2hoHBbQNOVn5jMG6tEQHVg",
+        "shot-3": "https://play-lh.googleusercontent.com/eOlpKIiZJ3oAOrPLfEqIcPrizy-K86uV5zQ6-xbC-1bPb9tMsKxvkAS21XmhSFVkDuJeoVXp2Zgbc2fFwflrHw",
+        "shot-4": "https://play-lh.googleusercontent.com/Z8hRrRusnh3XwgNWRRsy_bDl97pSww0riK54OWnwEYVomZ0oRocHrt1VqKPUfO-A8l2elP6sv5nwuh9qVCz6Rw",
+        "shot-5": "https://play-lh.googleusercontent.com/VO2oBCqwF-hSvkf1AaioxwmtQbmmfRiazChuoDEFD9Fq1nTnaw3uHIiaVzPPyBtgpzcj2rVpT4vdLrO9mhqW2rM"
+      },
+      "key": "com.arcaneblast.conquerthem"
+    },
+    {
+      "slug": "crazy-rumble-card-battles",
+      "title": "Crazy Rumble: Card Battles",
+      "genre": "Strategy",
+      "released": "2026-10-08",
+      "tagline": "Build your deck, gear up and outsmart rivals in chaotic real-time card battles",
+      "android": {
+        "id": "com.ArcaneBlast.CrazyRumble",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.CrazyRumble"
+      },
+      "images": {
+        "icon": "assets/games/crazy-rumble-card-battles/icon.webp",
+        "feature": "assets/games/crazy-rumble-card-battles/feature.webp",
+        "shots": [
+          "assets/games/crazy-rumble-card-battles/shot-1.webp",
+          "assets/games/crazy-rumble-card-battles/shot-2.webp",
+          "assets/games/crazy-rumble-card-battles/shot-3.webp",
+          "assets/games/crazy-rumble-card-battles/shot-4.webp",
+          "assets/games/crazy-rumble-card-battles/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/6l4PW2DAukkYbAzLT2TpwOW2j7LxO7JpA3N3QyBZLz-wJcqaALx7l4iVvL-REOYjXCnO13l_Izm_HWdpmxjU6w",
+        "feature": "https://play-lh.googleusercontent.com/t7bjSYhyzku7MvCUxVoJIIrVydbOi_tPwnOn0R8Er1AiQ_xSxtOJZHyg4kCrd5bcC6SV3YEMV5Vw2GMKiuPU",
+        "shot-1": "https://play-lh.googleusercontent.com/0-cDgkPMxZ9mmmnBQVn3MKX9gMU-OF1Cn5eWF4QWceb6s2wVkzMct7FrPZ4oxYCUjb9oVK-Cyi6cZxc9vJ8OLw",
+        "shot-2": "https://play-lh.googleusercontent.com/ZCNGI1aGVFVyTCszNVr5pPuCU7JdmiNECmQ7vLN40zO3lj9xLXfRaiRUWMjI-Ik8jBktTqE47WmAt5mucG86sQ",
+        "shot-3": "https://play-lh.googleusercontent.com/PXwwEmNiEgwEare6Rdf3wY_q0vIRUbM_RV8zD8_2FpCzE2fpLW0BkG1ywZTGob8EUzUU1vEP7HBwuk0lO-AV",
+        "shot-4": "https://play-lh.googleusercontent.com/tnWnbfDRqlZjamL0hp4U_rDQsjuqaYEPuUC2PSwuPFSv7Clid8sjT95-F9MzRDgyhQCS-_TrVYkdP8zVlZ4wLg",
+        "shot-5": "https://play-lh.googleusercontent.com/oRXUhmf2qoyBF-9XZrFlYL1qwfgcsDA8ddj3nXp2PTa5Zasig_ZA9gdhUIFSNRkO0jfcfyh6AYqIwYGpKT6t"
+      },
+      "key": "com.arcaneblast.crazyrumble"
+    },
+    {
+      "slug": "draft-crowd",
+      "title": "Draft Crowd",
+      "genre": "Action",
+      "released": "2026-08-27",
+      "tagline": "Draft your army, battle rival crowds and survive the collapsing arena!",
+      "android": {
+        "id": "com.ArcaneBlast.DraftCrowd",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.DraftCrowd"
+      },
+      "images": {
+        "icon": "assets/games/draft-crowd/icon.webp",
+        "feature": "assets/games/draft-crowd/feature.webp",
+        "shots": [
+          "assets/games/draft-crowd/shot-1.webp",
+          "assets/games/draft-crowd/shot-2.webp",
+          "assets/games/draft-crowd/shot-3.webp",
+          "assets/games/draft-crowd/shot-4.webp",
+          "assets/games/draft-crowd/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/2paOQpCK0C6B1sXv9YIfZ16oPUwjyV6h5C4D4VmR5Ev1-Cg-LORrLz4ymZJdln7beRj3VbviIpflKIrFNYP2dg",
+        "feature": "https://play-lh.googleusercontent.com/EGVcOrzm6yBAWRRQrKW4qXrp3-ERySHJiS0Cn880LhGhpj3zJDehxpZcV8A98LJMMCl5qUJMSVilmYdlXMuhBSc",
+        "shot-1": "https://play-lh.googleusercontent.com/_kk_QHx-v75zTMvQL1Craepy-6xWSCYGWR6XRx8zRMD_X0mLCDwC4fnQjyNfUniWWbzgO5KSmD8_lGwZCkACIjo",
+        "shot-2": "https://play-lh.googleusercontent.com/AXH7loSwCP8XsDg9k42FmPt1xX6mnaBFB8zjisUE7xcPbnNIIh6Vc20wB_eAXq70GVJUq6_HKPChCKRpOH9lVQ",
+        "shot-3": "https://play-lh.googleusercontent.com/pLO6Yjco48mddc-8wVt_i4SPCYqbHigJ2irfezp1-NVLLO0bavvdP_jxpqvAHoMcs8SDRwbSjsqiqftUKyMZ",
+        "shot-4": "https://play-lh.googleusercontent.com/1R8DnQ2ejnu8IxYb9zJZMkyKnr8iB-6qa4mlisNJxzSBWQmEOTsGz8DUnUq3I0mFKcR-J7s3-dcikaPCx7wbHQQ",
+        "shot-5": "https://play-lh.googleusercontent.com/bHvCRjuUwIaZWou4N2qh-cawfol4YwssuSgMrcrt2UZrxBE5h949znkJAccXJIv1YSsbKJtlP3ukzYF8YNeR"
+      },
+      "key": "com.arcaneblast.draftcrowd"
+    },
+    {
+      "slug": "log-rush-build-battle",
+      "title": "Log Rush: Build & Battle",
+      "genre": "Strategy",
+      "released": "2026-07-23",
+      "tagline": "Chop wood, build your army, capture islands and break the enemy Core!",
+      "android": {
+        "id": "com.ArcaneBlast.LogRush",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.LogRush"
+      },
+      "images": {
+        "icon": "assets/games/log-rush-build-battle/icon.webp",
+        "feature": "assets/games/log-rush-build-battle/feature.webp",
+        "shots": [
+          "assets/games/log-rush-build-battle/shot-1.webp",
+          "assets/games/log-rush-build-battle/shot-2.webp",
+          "assets/games/log-rush-build-battle/shot-3.webp",
+          "assets/games/log-rush-build-battle/shot-4.webp",
+          "assets/games/log-rush-build-battle/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/cRlGA0Q-i2d2Aaek_czMRXUqPTz9OeDfaAL4_H0wheE9J__0iM-jGiwA-GZgM4A2-IJAGR5_xRGMdFylmvOoBQ",
+        "feature": "https://play-lh.googleusercontent.com/iNXUbayY3niGmiaMaapx9GGZhNU0vY5jbbcbkdjyZqR8Ti4Kq-3Kyxf-sh4XipSggBjhupOK6QcPDuWh6I9psko",
+        "shot-1": "https://play-lh.googleusercontent.com/q4ys-dCNC33oBP3YhFipmSrbUyWVUxGtob4iTXxA8Z_9oYB0VUwLR27xImEUOUeFT9DeFIP1X0sSoPL7Cw99qA",
+        "shot-2": "https://play-lh.googleusercontent.com/-yX_mnzr0SOmbUtt1IqRBYjwv89KURuO1FXP-Al1K4ScsLNmRCtql1Top4IZlQCykkBurlaOrQtEO72DKvgfSg",
+        "shot-3": "https://play-lh.googleusercontent.com/lUiHfcjbgSabc-gvlD2m-x6C2QbPQ_Mz4vJoInS2OUjWKoVPfqBb1SdtNxRo-uFW9NRHSiqsuBP-y8sqGJDl",
+        "shot-4": "https://play-lh.googleusercontent.com/SZRfF9id68V9Tw3YdpvfeaO3nrt6VjDe28oJooiNtDUTXjxSi8rNOBq4fniv2mJebyMrrGJ_Gg6HfODR_hqdsg",
+        "shot-5": "https://play-lh.googleusercontent.com/GIXQ8EtnNtlfi1cZ6FZ7tjEwCNLhIYjSIRJUxsH5IiawC0NJVjbN-ynY1IwDAK9hRsnsVnJsnoY9ti7_l6ym"
+      },
+      "key": "com.arcaneblast.logrush"
+    },
+    {
+      "slug": "orbit-royale",
+      "title": "Orbit Royale",
+      "genre": "Strategy",
+      "released": "2026-06-11",
+      "tagline": "Mine ore, break planets and outplay rivals in real-time PvP battles",
+      "android": {
+        "id": "com.ArcaneBlast.OrbitRoyale",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.OrbitRoyale"
+      },
+      "images": {
+        "icon": "assets/games/orbit-royale/icon.webp",
+        "feature": "assets/games/orbit-royale/feature.webp",
+        "shots": [
+          "assets/games/orbit-royale/shot-1.webp",
+          "assets/games/orbit-royale/shot-2.webp",
+          "assets/games/orbit-royale/shot-3.webp",
+          "assets/games/orbit-royale/shot-4.webp",
+          "assets/games/orbit-royale/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/eFrrP-1bFpS9P9IREzrqcgoQrGUl7DFjXGIJrzzc8Cmr4M6LNsS8gUWAX3wD1xauVfMfwyKryEzQTPRUWDbiXg",
+        "feature": "https://play-lh.googleusercontent.com/_HjtolNPcXIayvav6AlZShzoMpfEPl0Xm1bh3ut10TdDMYydvGDu4Ueh-MlEs8xdJqPVAlugK69wpPs5iyO6ZwU",
+        "shot-1": "https://play-lh.googleusercontent.com/KMyTXaLDhCeV91nuAwPi3RaBgbe9voSbFcj22ONiZJ1WOxt8J7uXQmft19RAXsi9xYVkI3DWREjL9LAbQ-Y6",
+        "shot-2": "https://play-lh.googleusercontent.com/g23Obc7pEudbB_cigwAvQgd9a6cHqaWQg5i7U2dWMlf9M3iva3IqQoXuFuBO-UVBL7ClNfeUSuHz67CkTWCt9RI",
+        "shot-3": "https://play-lh.googleusercontent.com/5hTEUhbzf0ojwfZDgyyqNXuvxH6JstIMp9pUCuBHhaaOTeZtFSUMlrxtvakpcZgQlOIzZ0AUNTcO7RilITlloA",
+        "shot-4": "https://play-lh.googleusercontent.com/YIjWRc4pSjRRGRrvbuh954ubluM4QL_S--HJDIcJRCTXn1i-9ChYQQHDXj1Dl7vWP1Y9x0Zo39M_uLJZpZ5778k",
+        "shot-5": "https://play-lh.googleusercontent.com/mQihjNmhqhWAuhWSwRGs18EQ-l-JGRXlHrZYNc9xO-eD80WBAjFxlFakF5W3TgaPP4Xpa2QmyLIXNLH37uDqcQ"
+      },
+      "key": "com.arcaneblast.orbitroyale"
+    },
+    {
+      "slug": "olympush",
+      "title": "Olympush",
+      "genre": "Strategy",
+      "released": "2026-05-13",
+      "tagline": "Push the Trojan Horse into the enemy base in fast one-on-one card battles.",
+      "ios": {
+        "id": 6762312452,
+        "url": "https://apps.apple.com/app/id6762312452"
+      },
+      "images": {
+        "icon": "assets/games/olympush/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/olympush/shot-1.webp",
+          "assets/games/olympush/shot-2.webp",
+          "assets/games/olympush/shot-3.webp",
+          "assets/games/olympush/shot-4.webp",
+          "assets/games/olympush/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/75/31/b1753178-93ec-aa87-59b7-651dd9f5df4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/73/36/6673367f-fa1d-afe7-f8d2-8f8a2bc0bb67/iPhone_Victory.png",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/d9/22/8fd9222d-bd1e-c4a1-b6ab-1e75b3c3f6e3/iPhone_Loading.png",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/95/b8/b795b805-70ea-5052-81cc-91f22885652d/iPhone_Push.png",
+        "shot-4": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/9d/4e/d19d4ec7-c1b1-0a97-7c02-d5f0b36f1240/iPhone_Strategy.png",
+        "shot-5": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/58/76/e7587625-c11e-c27e-edca-b95de2e20969/iPhone_Cards.png"
+      },
+      "key": "com.arcaneblast.olympush"
+    },
+    {
+      "slug": "mob-smash",
+      "title": "Mob Smash",
+      "genre": "Strategy",
+      "released": "2026-03-30",
+      "tagline": "Launch your heroes into a skeleton horde in a physics-based PvP brawler.",
+      "ios": {
+        "id": 6760471643,
+        "url": "https://apps.apple.com/app/id6760471643"
+      },
+      "images": {
+        "icon": "assets/games/mob-smash/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/mob-smash/shot-1.webp",
+          "assets/games/mob-smash/shot-2.webp",
+          "assets/games/mob-smash/shot-3.webp",
+          "assets/games/mob-smash/shot-4.webp",
+          "assets/games/mob-smash/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e7/4e/c4e74eee-fa2c-2ca5-7b6f-6fcb36e1308c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/88/89/6f88895f-77d4-54af-a091-daf21683fb84/iPhone_Opening.png",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/93/4e/58934e73-9f2e-1fd7-6a6e-3814a0e1ded5/iPhone_Aiming.png",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/fd/35/69fd3508-34e8-bd49-2562-5e56fbe6813f/iPhone_Hero_Selection.png",
+        "shot-4": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/77/ab/ad77ab66-a9fd-870c-df3a-76b38cfc1e43/iPhone_Smash_Enemy.png",
+        "shot-5": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/e5/31/1de53114-759c-b2a4-30da-ea38d21ed67f/iPhone_Upgrade_Hero.png"
+      },
+      "key": "com.arcaneblast.mobsmash"
+    },
+    {
+      "slug": "runestone-heroes",
+      "title": "Runestone Heroes",
+      "genre": "Strategy",
+      "released": "2026-02-04",
+      "tagline": "Sling hero tokens in the arena, claim boost zones, win PvP auto-battles!",
+      "ios": {
+        "id": 6757924415,
+        "url": "https://apps.apple.com/app/id6757924415"
+      },
+      "android": {
+        "id": "com.ArcaneBlast.RunestoneHeroes",
+        "url": "https://play.google.com/store/apps/details?id=com.ArcaneBlast.RunestoneHeroes"
+      },
+      "images": {
+        "icon": "assets/games/runestone-heroes/icon.webp",
+        "feature": "assets/games/runestone-heroes/feature.webp",
+        "shots": [
+          "assets/games/runestone-heroes/shot-1.webp",
+          "assets/games/runestone-heroes/shot-2.webp",
+          "assets/games/runestone-heroes/shot-3.webp",
+          "assets/games/runestone-heroes/shot-4.webp",
+          "assets/games/runestone-heroes/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://play-lh.googleusercontent.com/le41xo5w3VXlJB7AmOcVqVJbhcxa598ZZX9UIHE3Or3AsVmDnv_Ka2MybPiFAhp_UECPCDnIjgxtp0JVr5VK",
+        "feature": "https://play-lh.googleusercontent.com/MtmNuAxbYT22MPeo3mXCu4qzxBvf8_GOmFS9ZcxVKwgj6YsGlh7g3mpbv_1GuB2T5Y3jbbFNyvZtRUV1rrMD",
+        "shot-1": "https://play-lh.googleusercontent.com/O-XpUzWaM1XjiW_Vv0poF4p7nmoBMrvANqak-0tokiQdalnVjK9co4zz7Nc7BMnf1gSRAQZFwyv7hZB6msCjVQ",
+        "shot-2": "https://play-lh.googleusercontent.com/BhR1GQeMbGZw2TK9Ywgp3XkShKIEEHl9vlPw8u7-xFlkUy-vcjaEp80h7ZfDdUioF0qw83KxgK_srnvvDco7",
+        "shot-3": "https://play-lh.googleusercontent.com/SSJ2_2FXtkQT3h5kOqjb_qh5M3R1oCM-KbM6QYLlCXETFzeMbBXuETYnxYhXQAkZWyhEb4liFWwHWfQz0biLlQ",
+        "shot-4": "https://play-lh.googleusercontent.com/imut_PFRhJWt1BTmGI-FxSJVJ0fpqNZeUtwiZ20QFLX2rdrWVL66m09uKwKVZkBWKYngKJm7wCVq3vr4SVXl",
+        "shot-5": "https://play-lh.googleusercontent.com/FIiKKcJOlN13l0yd6iX4b5GdH0PJaGLH0Lnb_SKusGXbSd2Q14eXID3EVpsK0WftGYAuKrnJ973cKxrGFH08qwo"
+      },
+      "key": "com.arcaneblast.runestoneheroes"
+    },
+    {
+      "slug": "fable-arena",
+      "title": "Fable Arena",
+      "genre": "Card",
+      "released": "2025-05-28",
+      "tagline": "Draft units, stack synergies and watch your army fight in a tactical auto-battler.",
+      "ios": {
+        "id": 6740409979,
+        "url": "https://apps.apple.com/app/id6740409979"
+      },
+      "images": {
+        "icon": "assets/games/fable-arena/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/fable-arena/shot-1.webp",
+          "assets/games/fable-arena/shot-2.webp",
+          "assets/games/fable-arena/shot-3.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/a0/a3/1fa0a3a5-3ca1-a778-6696-065a2107170e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c8/03/40c8037c-9644-2a85-2ab2-431de1689d0f/Screen_1.jpg",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/00/b0/5000b042-dc72-2aa8-a4e3-337238186959/Screen_2.jpg",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/85/11/df8511e9-ce73-8e69-1ace-c8fb6eff446f/Screen_3.jpg"
+      },
+      "key": "com.arcaneblast.autobattlercardgameduel"
+    },
+    {
+      "slug": "bladefall-champions",
+      "title": "Bladefall: Champions",
+      "genre": "Roleplaying",
+      "released": "2024-03-01",
+      "tagline": "Raid enemy towns with a party of champions, then grow your village and climb the leagues.",
+      "ios": {
+        "id": 6478508929,
+        "url": "https://apps.apple.com/app/id6478508929"
+      },
+      "images": {
+        "icon": "assets/games/bladefall-champions/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/bladefall-champions/shot-1.webp",
+          "assets/games/bladefall-champions/shot-2.webp",
+          "assets/games/bladefall-champions/shot-3.webp",
+          "assets/games/bladefall-champions/shot-4.webp",
+          "assets/games/bladefall-champions/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/f8/7d/8ef87d8e-bf36-a33f-918e-ac9286ca3a0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/40/e1/8040e1a2-4c54-5d46-a510-ee51d83420ff/0f9e7412-7473-4701-8241-fb91b2e22da9_G4_5.5.png",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/35/d2/4535d2bb-9e0e-8e1b-2de4-cd11a993e189/d50422e1-6c28-4589-ab39-eeb7e0e44939_Skills_5.5.png",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/e9/ca/aae9ca6e-f844-d925-25e0-c46394d1bda8/f059196f-b22f-44bd-90aa-570853e4fb46_G3_5.5.png",
+        "shot-4": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/ed/0b/23ed0b35-6ba8-748f-d738-c6c3db12295d/3919610a-8f39-413a-bd73-48dc95f0be07_G2_5.5.png",
+        "shot-5": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/e2/7d/dce27d5f-173a-35d4-2959-3a5411ddca3e/749f77e6-45a5-43f8-95d5-7a0feae9da15_G1_5.5.png"
+      },
+      "key": "com.arcaneblast.bladefall"
+    },
+    {
+      "slug": "rise-of-necromancer",
+      "title": "Rise of Necromancer",
+      "genre": "Action",
+      "released": "2023-02-27",
+      "tagline": "Command an undead horde and survive wave after wave in a dark-magic action RPG.",
+      "ios": {
+        "id": 1673301391,
+        "url": "https://apps.apple.com/app/id1673301391"
+      },
+      "images": {
+        "icon": "assets/games/rise-of-necromancer/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/rise-of-necromancer/shot-1.webp",
+          "assets/games/rise-of-necromancer/shot-2.webp",
+          "assets/games/rise-of-necromancer/shot-3.webp",
+          "assets/games/rise-of-necromancer/shot-4.webp",
+          "assets/games/rise-of-necromancer/shot-5.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/8a/cc/518acc57-eb79-a305-3b59-1be8c611cdac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/97/78/db977865-4189-f93e-cd22-6e50e8e8615e/e4f5b805-1c18-47fe-a000-7e513ee1f2fc_Gameplay2_iPhone_5.5.jpg",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/2f/d8/5b2fd86e-92c9-36b4-cf3c-3cc7c1921538/f6ff5c68-3b62-431c-8f5f-0782b32fcf34_Gameplay1_iPhone_5.5.jpg",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/0b/01/190b018d-61ef-f3ff-8302-6b824c0a402a/24b474f1-c81c-4edf-833a-b8cb59736402_Chapters_iPhone_5.5_copy.png",
+        "shot-4": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/e9/42/bae942d2-c491-5669-df22-7e828339338a/b1942eda-5ad6-4a1a-80ad-f3410085290c_Skills_iPhone_5.5.jpg",
+        "shot-5": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/af/df/64afdfb3-b973-0540-935b-c7e4cd174287/5b9a8445-daaa-4d7f-8e1e-00b659755dc3_Bosses_iPhone_5.5.jpg"
+      },
+      "key": "com.arcaneblast.necromancersurvivalrpgarena"
+    },
+    {
+      "slug": "zombie-slayer-tower-defense",
+      "title": "Zombie Slayer - Tower Defense",
+      "genre": "Strategy",
+      "released": "2022-10-16",
+      "tagline": "Hold the settlement against endless zombies, upgrade your gear and go again.",
+      "ios": {
+        "id": 6443545121,
+        "url": "https://apps.apple.com/app/id6443545121"
+      },
+      "images": {
+        "icon": "assets/games/zombie-slayer-tower-defense/icon.webp",
+        "feature": null,
+        "shots": [
+          "assets/games/zombie-slayer-tower-defense/shot-1.webp",
+          "assets/games/zombie-slayer-tower-defense/shot-2.webp",
+          "assets/games/zombie-slayer-tower-defense/shot-3.webp",
+          "assets/games/zombie-slayer-tower-defense/shot-4.webp"
+        ]
+      },
+      "_src": {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/66/63/7a/66637ac5-92fa-9cc3-0f75-a56259fcf3ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png",
+        "shot-1": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/b1/3e/31b13e6f-57b4-efdb-7030-83b1df387c85/2df213a5-7ade-4000-8b08-6471ade81949_Screen_Gameplay_FightBosses_Narrow.png",
+        "shot-2": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/4f/0c/c34f0c32-3338-1ce3-bdcd-da47f0caeebf/1dd5025f-a7fa-42e8-b45d-f21c51ff3b61_Screen_Gameplay_UpgradeHero_Narrow__U00281_U0029.png",
+        "shot-3": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/5a/90/3c5a90e2-a302-f520-f4c2-fce651f62a68/c46d0045-78b8-4162-a7dd-3baa44664bea_Screen_Gameplay_PowerfulBuilds_Narrow.png",
+        "shot-4": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/3b/95/aa3b95cf-f512-7200-1997-65e1ccd48bd9/bc18950c-1d3d-43aa-aa7c-0509fd236fc2_Screen_Gameplay_DefendKingdom_Narrow.png"
+      },
+      "key": "com.arcaneblast.zombieslayer"
+    }
+  ]
+}

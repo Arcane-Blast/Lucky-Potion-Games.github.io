@@ -1,0 +1,30 @@
+{
+  "_help": [
+    "Hand edits for the games list. The rest comes from the stores every day.",
+    "hide:  bundle ids (or App Store ids) of games to leave off the site.",
+    "order: ids to pin at the top, in this order; the rest follow newest first.",
+    "games: per-game changes keyed by bundle id, e.g. a shorter tagline or title."
+  ],
+  "hide": [],
+  "order": [],
+  "games": {
+    "com.arcaneblast.necromancersurvivalrpgarena": {
+      "tagline": "Command an undead horde and survive wave after wave in a dark-magic action RPG."
+    },
+    "com.arcaneblast.zombieslayer": {
+      "tagline": "Hold the settlement against endless zombies, upgrade your gear and go again."
+    },
+    "com.arcaneblast.bladefall": {
+      "tagline": "Raid enemy towns with a party of champions, then grow your village and climb the leagues."
+    },
+    "com.arcaneblast.autobattlercardgameduel": {
+      "tagline": "Draft units, stack synergies and watch your army fight in a tactical auto-battler."
+    },
+    "com.arcaneblast.mobsmash": {
+      "tagline": "Launch your heroes into a skeleton horde in a physics-based PvP brawler."
+    },
+    "com.arcaneblast.olympush": {
+      "tagline": "Push the Trojan Horse into the enemy base in fast one-on-one card battles."
+    }
+  }
+}
