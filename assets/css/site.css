@@ -602,17 +602,6 @@ p { margin: 0; text-wrap: pretty; }
 .skills h4 { font-size: 1.15rem; font-weight: 700; margin-bottom: 8px; letter-spacing: -0.01em; }
 .skills p { color: var(--muted); font-size: 0.97rem; line-height: 1.55; }
 
-/* ------------------------------------------------------------------ contact */
-
-.contact-inner {
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.contact .lead { max-width: 30em; margin-bottom: 34px; }
-.btn-mail { font-size: 1.08rem; min-height: 58px; padding: 0 32px; }
-
 /* ------------------------------------------------------------------ footer */
 
 .footer { border-top: 1px solid var(--line); padding: 34px 0 44px; color: var(--muted); font-size: 0.92rem; }
@@ -622,7 +611,8 @@ p { margin: 0; text-wrap: pretty; }
 .footer-links { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 24px; }
 .footer-links a { text-decoration: none; transition: color 0.2s ease; }
 .footer-links a:hover { color: var(--text); }
-.footer-legal { flex-basis: 100%; font-size: 0.8rem; color: rgba(170, 164, 200, 0.75); line-height: 1.6; }
+.footer-legal { flex-basis: 100%; font-style: normal; font-size: 0.86rem; color: var(--muted); line-height: 1.7; padding-top: 18px; border-top: 1px solid var(--line); }
+.footer-legal strong { color: var(--soft); font-weight: 650; }
 
 /* ------------------------------------------------------------------ screenshots dialog */
 

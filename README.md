@@ -4,7 +4,7 @@ The Arcane Blast studio website, served by GitHub Pages from this repository (`m
 
 It's one static page with no build step: `index.html`, `assets/css/site.css`, `assets/js/site.js`.
 
-## The games list updates itself
+## Updating the games list
 
 `scripts/update_games.py` reads both store accounts:
 
@@ -13,7 +13,7 @@ It's one static page with no build step: `index.html`, `assets/css/site.css`, `a
 
 It merges them into one list (a game on both stores becomes one card with both buttons), downloads the icon, feature graphic and screenshots into `assets/games/<game>/`, and rewrites the parts of `index.html` between the `<!-- games:… -->` and `<!-- icons:… -->` markers, plus the game counts. `data/games.json` holds the merged list.
 
-The GitHub Action `.github/workflows/update-games.yml` runs it every day at 04:23 UTC and commits only when something changed, so a new release shows up the next morning and a game removed from a store disappears. To run it right away, open **Actions → Update games list → Run workflow**.
+It runs on request, not on a schedule: run it (or ask Claude to "update the website"), check the page, then commit and push. New releases appear and games removed from a store disappear.
 
 If one store can't be read (outage, page change), that store's games are kept from the last good run, so the site never empties itself.
 
@@ -25,7 +25,7 @@ If one store can't be read (outage, page change), that store's games are kept fr
 - `order`: ids to pin at the top, in this order; the rest follow newest first
 - `games`: per-game changes keyed by bundle id, such as a shorter `tagline` or `title`
 
-Edit the file, then run the action (or the script) to apply it.
+Edit the file, then run the script to apply it.
 
 ### Run it locally
 

@@ -139,7 +139,7 @@
   }
 
   /* gentle reveal on scroll */
-  var revealables = document.querySelectorAll('.game, .skills li, .studio-text, .contact-inner, .section-head');
+  var revealables = document.querySelectorAll('.game, .skills li, .studio-text, .section-head');
   if ('IntersectionObserver' in window && !reduceMotion) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
