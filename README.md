@@ -37,6 +37,12 @@ Python 3.9+. Pillow (`pip install pillow`) is optional but makes the images seve
 
 ## Other files that must stay
 
-- `app-ads.txt`: ad network verification
-- `privacy_policy*.html`, `*_privacy_policy.html`, `idle_archer_terms_and_conditions.html`: linked from the store listings
+- `app-ads.txt`: tells ad networks which sellers may sell ads in our games; removing it can cut ad revenue
+- Privacy policies and terms, linked from the store listings (checked 11 Nov 2026):
+  `privacy_policy.html` (Olympush, Mob Smash, Runestone Heroes), `privacy_policy_gp.html` (all other Google Play games),
+  `bladefall_privacy_policy.html`, `fable_arena_privacy_policy.html`, plus `rise_of_necromancer_privacy_policy.html`,
+  `idle_archer_privacy_policy.html`, `idle_archer_terms_and_conditions.html`, `privacy_policy_volleycraft.html`
+  and `OLD/idle-archer-privacy-policy.html` for older links
+- `e6trqq66h6bw97s2ltalp6ia5di6xe.html` (and its copy in `OLD/`): Facebook Business domain verification
+- `resources/`, `other/images/`, `DeeplinkTest.html`: may be loaded by games or old links
 - `CNAME`: the custom domain
